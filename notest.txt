@@ -1,0 +1,22 @@
+Topics
+
+- applied problems (marketing) -> DD scheme
+- unobserved components model definition (sample python implementation of each component with plots)
+	-> state space notation
+- kalman filters (sample implementation)
+- what is a spike-and-slab prior?
+	-> (http://www.batisengul.co.uk/post/spike-and-slab-bayesian-linear-regression-with-variable-selection/)
+        -> implement sample with visualizations in python
+- plate/graphical notation
+	-> state space model
+	-> spike-and-slab prior and all other priors
+- inference and posterior predictive simulation (python sample using PyMC3)
+- impact evaluation (python implementation)
+- example application for simulated and real data (python implementation)
+
+
+
+
+8014323282
+t0808
+080854

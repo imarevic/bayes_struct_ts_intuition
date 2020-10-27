@@ -1,0 +1,14 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Why Time-Series?}{3}{0}{1}
+\beamer@sectionintoc {2}{Unobserved Components Models}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{UCM General Model Definition}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{State-Space Notation}{22}{0}{2}
+\beamer@sectionintoc {3}{Kalman Filter and Smoother}{24}{0}{3}
+\beamer@sectionintoc {4}{Spike-and-Slab Prior}{27}{0}{4}
+\beamer@sectionintoc {5}{Bayesian Structural Time-Series Model (BSTM)}{28}{0}{5}
+\beamer@subsectionintoc {5}{1}{State-Space Definition}{28}{0}{5}
+\beamer@subsectionintoc {5}{2}{Graphical Model / Plate Notation}{29}{0}{5}
+\beamer@subsectionintoc {5}{3}{Inference and Posterior-Predictive Simulation}{31}{0}{5}
+\beamer@subsectionintoc {5}{4}{Impact Evaluation}{32}{0}{5}
+\beamer@sectionintoc {6}{Causal Impact in BSTM}{33}{0}{6}
+\beamer@sectionintoc {7}{References}{34}{0}{7}
